@@ -1,0 +1,22 @@
+@import 'variables';
+
+.card-course-item {
+  margin-top: 1.5rem;
+}
+
+.image-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.image-course {
+  height: 261px;
+}
